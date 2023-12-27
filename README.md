@@ -1,5 +1,5 @@
 # ProjetExamenTIC
-Groupe numéro 57 <br>
+Groupe numéro 57 Informatique ingénieur section B<br>
 Membres du groupe :  <br>
 Saadi M'henna           232331134915     Chargé de l'exercice 1 (Word)<br>
 Megherfi Massinissa     232331078612     Chargé de l'exercice 2 (Latex)<br>
