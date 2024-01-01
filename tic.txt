@@ -1,0 +1,7 @@
+EN   :        This is the link of the report using LaTex on TIC and technologies related to TIC (Google services, Microsoft tools, Git and
+GitHub ...etc):
+
+FR   :        Voici le lien du projet Latex qui parle des TIC et les technologies en lien avec TIC (Google services, Microsoft tools, Git and
+GitHub ...etc):
+
+l
